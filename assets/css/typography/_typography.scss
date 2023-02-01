@@ -1,0 +1,19 @@
+// Font and typography
+// .5rem = 8px | 1rem = 16px...
+$bodyFont: 'Oxanium', cursive;
+$biggestFont: 2.25rem;
+$h2Font: 1.25rem;
+$normalFont: .938rem;
+$smallFont: .75rem;
+// Font weight
+$fontSemiBold: 600;
+
+
+// responsive fonts
+@media screen and (in-width: 1024px) {
+  $biggestFont: 4rem;
+  $h2Font: 1.5rem;
+  $normalFont: 1rem;
+  $smallFont: .813rem;
+}
+

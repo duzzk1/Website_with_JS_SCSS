@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Oxanium", cursive;
+  font-size: 0.938rem;
+  background-color: hsl(259deg, 20%, 18%);
+  color: hsl(203deg, 8%, 98%);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 1024;
+  margin-inline: 1.5rem;
+}
+
+main {
+  overflow: hidden;
+}/*# sourceMappingURL=main.css.map */
